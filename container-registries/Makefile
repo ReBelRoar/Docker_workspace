@@ -22,4 +22,4 @@ push-github:
 	docker push ghcr.io/rebelroar/my-scratch-image
 
 	docker tag my-scratch-image ghcr.io/rebelroar/my-scratch-image:temp-1
-	docker push ghcr.io/rebelroar/my-scratch-image:temp-1
+	docker push ghcr.io/rebelroar/my-scratch-image:temp-1	
